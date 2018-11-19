@@ -1,3 +1,12 @@
-快乐猫猫头hihihihi
+由库的更新--本地：
 Remote+fetch from
 Merge+local merge
+由本地更新--库：
+查找更新
+stage
+commit
+push
+工作流程：
+工作区-暂存区-本地仓库-远程仓库
+在本地创建库：
+git push--输入 git clone "仓库地址"--enter--创建成功
